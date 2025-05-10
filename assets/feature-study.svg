@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Book/Study icon -->
+  <rect x="10" y="12" width="28" height="26" rx="2" ry="2" fill="#f5f7fc" stroke="#6a9eff" stroke-width="2"/>
+  
+  <!-- Book pages -->
+  <path d="M14,12 L14,38" stroke="#6a9eff" stroke-width="1"/>
+  <path d="M18,12 L18,38" stroke="#6a9eff" stroke-width="1" opacity="0.5"/>
+  <path d="M22,12 L22,38" stroke="#6a9eff" stroke-width="1" opacity="0.5"/>
+  <path d="M26,12 L26,38" stroke="#6a9eff" stroke-width="1" opacity="0.5"/>
+  <path d="M30,12 L30,38" stroke="#6a9eff" stroke-width="1" opacity="0.5"/>
+  <path d="M34,12 L34,38" stroke="#6a9eff" stroke-width="1"/>
+  
+  <!-- Bookmark -->
+  <path d="M36,12 L36,24 L32,21 L28,24 L28,12" fill="#9f86ff" stroke="#6a9eff" stroke-width="1"/>
+  
+  <!-- Light bulb -->
+  <circle cx="24" cy="6" r="3" fill="#ffa978"/>
+  <ellipse cx="24" cy="6" rx="6" ry="2" fill="none" stroke="#ffa978" stroke-width="1"/>
+  <path d="M24,9 L24,12" stroke="#ffa978" stroke-width="1"/>
+</svg>
