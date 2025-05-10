@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Offline icon -->
+  <circle cx="24" cy="24" r="20" fill="#f5f7fc" stroke="#6a9eff" stroke-width="2"/>
+  
+  <!-- Wifi signal (crossed) -->
+  <path d="M14,26 C17,23 20.5,21.5 24,21.5 C27.5,21.5 31,23 34,26" fill="none" stroke="#6a9eff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M18,22 C19.8,20.7 21.9,20 24,20 C26.1,20 28.2,20.7 30,22" fill="none" stroke="#6a9eff" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="24" cy="30" r="2" fill="#6a9eff"/>
+  
+  <!-- Crossed line -->
+  <line x1="38" y1="14" x2="10" y2="34" stroke="#ffa978" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="38" y1="14" x2="10" y2="34" stroke="#ffffff" stroke-width="1" stroke-linecap="round"/>
+</svg>
