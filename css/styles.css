@@ -455,6 +455,56 @@ p {
 
 
 
+/* ========== Privacy Policy Section ========== */
+.privacy-policy {
+  padding: var(--space-xxl) 0;
+  background-color: var(--light);
+}
+
+.policy-content {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: var(--light-gray);
+  padding: var(--space-xl);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+}
+
+.policy-content h3 {
+  margin-top: 0;
+  font-size: 1.75rem;
+  margin-bottom: var(--space-lg);
+}
+
+.policy-content h4 {
+  font-size: 1.3rem;
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-md);
+  color: var(--primary-color);
+}
+
+.contact-list {
+  list-style: none;
+  padding-left: var(--space-md);
+  margin-bottom: var(--space-lg);
+}
+
+.contact-list li {
+  margin-bottom: var(--space-sm);
+}
+
+.policy-date {
+  font-style: italic;
+  color: var(--dark-gray);
+  margin-top: var(--space-xl);
+  text-align: right;
+}
+
+.back-to-home {
+  margin-top: var(--space-xl);
+  text-align: center;
+}
+
 /* ========== Download CTA Section ========== */
 .download-cta {
   padding: var(--space-xxl) 0;
